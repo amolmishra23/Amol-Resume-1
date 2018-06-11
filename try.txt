@@ -1,0 +1,17 @@
+A proactive and fast learning individual seeking an opportunity to work as a dynamic data analyst utilizing analytical and methodical skills and relevant expertise to help the company achieve business goals while sticking to vision, mission and values
+
+Results-driven and diligent professional seeking a Software Engineer position with Core Concepts utilizing strong technical acumen, logical thinking and relevant expertise to provide the company with the best software solutions.
+
+Representing the needs and expectations of my peer group to the management, for satisfying their needs regarding the curriculum operational requirements of the university by filling the gap between them and the management.
+Representing the needs and expectations of my peer group, to the college management on curriculum and operational requirements of the university.
+
+
+Web application that performs analysis and visualization of various features of IPL matches
+from season 1 to 10 in R language. Players are ranked based on combination of many factors and also
+winner of matches are predicted.
+
+Web application to simulate mobile Swiftkey keyboard application. Textual data from twitter, news and blog data is used to build a Prediction application using the concept of n-grams in NLP built using textual data from twitter, news and blogs.
+
+Project uses NLTK and TextBlob libraries in PYTHON for getting the sentiment polarity of real-time tweets obtained through the Twitter API and plot them on a web page by building a  dynamic flask web application.
+
+Web application for getting the sentiment polarity of real-time tweets obtained from Twitter and plot them on a web page using NLTK and TextBlob libraries.
